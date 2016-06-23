@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffeeeeee"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/fblogin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="FB Login"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/fblogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FB Logout" />
+
+    <Button
+        android:id="@+id/fbshare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FB Share" />
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp" />
+
+
+</LinearLayout>

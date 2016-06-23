@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+
+   <!--
+
+   //Button default, pressed and Focused State
+   http://stackoverflow.com/questions/4692642/android-customized-button-changing-text-color-->
+
+</shape>

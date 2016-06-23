@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF80AB</color>
+
+    <color name="colorPrimary_opacity">#800C486C</color>
+    <color name="white">#FFFFFF</color>
+
+
+
+
+
+    <color name="colorAccentOpac">#80FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorRed">#FF0900</color>
+    <color name="colorGreen">#00FF00</color>
+    <color name="sepColor">#8D8D8D</color>
+    <color name="colorLightBlack">#525254</color>
+    <color name="colorServicesBg">#A4B3B8</color>
+    <color name="colorRepairHeader">#BCBABF</color>
+    <color name="gray_stock">#7a7a7a</color>
+    <color name="red">#ec1d25</color>
+    <color name="gray_background">#D7DFE2</color>
+    <color name="hintcolor">#ADB1B2</color>
+    <color name="black">#101010</color>
+    <color name="black_opacity">#787C7F</color>
+    <color name="black_opacity_border">#7A7A7A</color>
+    <color name="white_opacity">#C8D1D6</color>
+</resources>
