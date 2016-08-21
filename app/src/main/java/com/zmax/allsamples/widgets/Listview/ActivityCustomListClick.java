@@ -176,11 +176,14 @@ public class ActivityCustomListClick extends Activity implements OnCustomClickLi
     public void OnCustomClick(View aView, int position)
     {
         long viewId = aView.getId();
-        if (viewId == R.id.title) {
+        if (viewId == R.id.title)
+        {
             Toast.makeText(this, "Button clicked position -->" +position, Toast.LENGTH_SHORT).show();
-        } else if (viewId == R.id.reporter) {
+        } else if (viewId == R.id.reporter)
+        {
             Toast.makeText(this, "Button clicked position --->"+position, Toast.LENGTH_SHORT).show();
-        } else {
+        } else
+        {
             System.out.println(viewId);
             System.out.println(R.id.title);
             Toast.makeText(this, "ListView clicked position-->" + position, Toast.LENGTH_SHORT).show();

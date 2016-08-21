@@ -1,5 +1,7 @@
 package com.zmax.allsamples.activity;
 
+import android.os.Bundle;
+
 import java.util.ArrayList;
 
 /**
@@ -66,5 +68,40 @@ public class Intent
     getArguments().remove("all_offers_list");*/
 
 
+//---------------------------------- success museum
+
+   /* Bundle bundle = new Bundle();
+    bundle.putString("filetype","i");
+    bundle.putSerializable("iav", (ArrayList<ExhibitAllStop>)exhibitAll_image);
+
+    //bundle.putSerializable("audioArray",(ArrayList<ExhibitAllStop>) exhibits_List.get(position).getExhibitAll_audio());
+    //bundle.putSerializable("videoArray", (ArrayList<ExhibitAllStop>)exhibits_List.get(position).getExhibitAll_video());
+    //bundle.putSerializable("videoUrlArray", (ArrayList<ExhibitAllStop>)exhibits_List.get(position).getExhibitAll_videoUrl());
+
+    android.content.Intent i = new android.content.Intent(ctx,ExhibitsIAVlist.class);
+    i.putExtra("bundle",bundle);
+    startActivity(i);
+    overridePendingTransition(0, 0);
+
+
+
+    android.content.Intent intent = getIntent();
+    Bundle args = intent.getBundleExtra("bundle");
+    //String myString = args.getString("title");
+    iav_list = (ArrayList<ExhibitAllStop>) args.getSerializable("iav");
+    //System.out.println("exhibitAll_video"+iav_list.size());
+    filetype = args.getString("filetype");
+
+    */
+
+    ///--------------------------------suc
+
+  /*  android.content.Intent i = new android.content.Intent(context,ReportActivity.class);
+    i.putExtra("currentObject",report);
+    context.startActivity(i);
+
+
+    android.content.Intent intent = getIntent();
+    report = (Report)intent.getSerializableExtra("currentObject");*/
 
 }

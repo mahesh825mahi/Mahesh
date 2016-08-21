@@ -18,4 +18,7 @@ public class AAInfo
     //A->B-->C-->d
 
     //http://stackoverflow.com/questions/10863572/programmatically-go-back-to-the-previous-fragment-in-the-backstack
+
+    //Refresh the Fragment-----------------------------
+    //http://stackoverflow.com/questions/20598219/how-to-refresh-fragments-onresume
 }

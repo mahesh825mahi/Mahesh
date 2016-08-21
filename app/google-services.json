@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "438384152065",
+    "firebase_url": "https://mahesh-b8831.firebaseio.com",
+    "project_id": "mahesh-b8831",
+    "storage_bucket": "mahesh-b8831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438384152065:android:7249997860b6f2f3",
+        "android_client_info": {
+          "package_name": "com.zmax.allsamples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438384152065-37mmp1kl9c0h3ak1cf9u03p9108nk6r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDav1ai2Z-e7L3df4_xYUOTkFSLChkemA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
