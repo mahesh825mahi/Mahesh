@@ -2,6 +2,9 @@ package com.zmax.allsamples.Time_Date;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.zmax.allsamples.R;
+
 public class Date_Time extends AppCompatActivity
 {
 Context ctx;

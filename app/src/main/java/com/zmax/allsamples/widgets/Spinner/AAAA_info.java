@@ -7,4 +7,6 @@ public class AAAA_info {
 
     //Custom Spinnner
     //http://blog.nkdroidsolutions.com/android-custom-spinner-dropdown-example-programmatically/
+    //----------------material spinner
+    //https://android-arsenal.com/details/1/3124
 }

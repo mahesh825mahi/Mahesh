@@ -37,6 +37,10 @@
             </intent-filter>
         </activity>
 
+        <service
+            android:name=".BackroundProcess.IntentService.MyIntentService">
+        </service>
+
         <!-- custom Aar file lib -->
         <activity android:name=".social.Fb" />
         <activity android:name=".db.EmpRegister" />
@@ -88,7 +92,7 @@
 
         <!--Google-->
         <receiver
-            android:name=".service_receiver.BluetoothStatChangedReceiver"
+            android:name=".BackroundProcess.BluetoothStatChangedReceiver"
             android:enabled="true"
             android:exported="true">
 
@@ -99,7 +103,7 @@
 
 
         <receiver
-            android:name=".service_receiver.BootUp"
+            android:name=".BackroundProcess.BootUp"
             android:enabled="true"
             android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
             <intent-filter>

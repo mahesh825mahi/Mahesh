@@ -14,7 +14,12 @@ public class AAA_info {
     //------------------------custom actionbar , login page design, horizontal scrollview
     //http://sourcey.com/tags/android/
 
-    //Switch
-    //http://www.materialdoc.com/switch/
+
+
+    //---------------------------------------------------All Material design example
+    //http://www.materialdoc.com/scrolling-techniques/
+
+    //------------------------------------------Material Activity animation
+    //https://github.com/lgvalle/Material-Animations
 
 }
