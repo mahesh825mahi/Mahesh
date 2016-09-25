@@ -9,4 +9,12 @@ public class AA_Info
 
     //FTP Protocal
     //http://www.theappguruz.com/blog/android-start-ftp-android
+
+
+    //XMPP(Protocal) Chat Source Code
+            //http://www.blikoon.com/tutorials/android-smack-xmpp-introductionbuilding-a-simple-client
+
+
+    //Retrofit, a Simple HTTP Client for Android and Java
+    //https://www.sitepoint.com/retrofit-a-simple-http-client-for-android-and-java/
 }

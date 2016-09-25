@@ -6,8 +6,12 @@ package com.zmax.allsamples.Android.Design;
 
 public class DesignPattern {
 
+    //MVP github
+    //https://github.com/ivacf/archi
+
     //MVP
     //https://github.com/jpotts18/android-mvp
+    //https://github.com/googlesamples/android-architecture
     //Video
     //https://www.youtube.com/watch?v=qE4DEwrK2N4
 
