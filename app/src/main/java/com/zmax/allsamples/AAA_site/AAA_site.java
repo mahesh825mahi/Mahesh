@@ -15,8 +15,5 @@ public class AAA_site
 
     //--------------overview all concepts
     //http://www.java2s.com/Open-Source/Android_Free_Code/NFC/index.htm
-
-
     //Mahesh
-
 }

@@ -5,6 +5,13 @@ package com.zmax.allsamples.fragment;
  */
 public class AAInfo
 {
+    //Fragment transitions with shared elements
+
+            //https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.1vxf8wrg7
+
+    //Managing the Fragment Back Stack
+            //https://medium.com/@bherbst/managing-the-fragment-back-stack-373e87e4ff62#.dtu3d5h3y
+
     //Taking Activity Reference in Fragment
 
     //http://stackoverflow.com/questions/32083053/android-fragment-onattach-deprecated
@@ -21,4 +28,7 @@ public class AAInfo
 
     //Refresh the Fragment-----------------------------
     //http://stackoverflow.com/questions/20598219/how-to-refresh-fragments-onresume
+
+    //Fragment transitions with shared elements
+    //https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb#.1vxf8wrg7
 }

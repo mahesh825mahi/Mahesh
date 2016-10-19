@@ -18,6 +18,7 @@ public class CustomAlertDialog extends Activity
         super.onCreate(savedInstanceState);
     }
     public static Dialog CustomAlertDialog;
+
     public static boolean AlertDialog_Validation(final Context ctx, final String content)
     {
         CustomAlertDialog = new Dialog(ctx, R.style.Dialog);

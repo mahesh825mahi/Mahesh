@@ -4,6 +4,10 @@ package com.zmax.allsamples.networks;
  */
 public class AA_Info
 {
+    //****Android Networking Tutorial: Getting Started
+    //https://www.raywenderlich.com/126770/android-networking-tutorial-getting-started
+
+
     // Volley Guid
     //http://code.tutsplus.com/tutorials/an-introduction-to-volley--cms-23800
 

@@ -5,6 +5,9 @@ package com.zmax.allsamples.widgets.SearchView;
  */
 public class AAA_info {
 
+    //Android Search View with PHP and MySQL
+        //http://androidcss.com/android/android-search-view-php-mysql/
+
     //-------------------Custom SearchView
     //http://www.worldbestlearningcenter.com/tips/Android-how-to-customize-SearchView.htm
 

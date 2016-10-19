@@ -6,6 +6,10 @@ package com.zmax.allsamples.db;
 
 public class AA_info
 {
+
+    //https://realm.io/
+
+
 //Create Your Own Content Provider in Android
     //https://www.sitepoint.com/create-your-own-content-provider-in-android/
 
